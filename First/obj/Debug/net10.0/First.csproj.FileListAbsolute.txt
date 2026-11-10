@@ -1,0 +1,14 @@
+/home/cocofioren/HACK/DOTNET/First/bin/Debug/net10.0/First
+/home/cocofioren/HACK/DOTNET/First/bin/Debug/net10.0/First.deps.json
+/home/cocofioren/HACK/DOTNET/First/bin/Debug/net10.0/First.runtimeconfig.json
+/home/cocofioren/HACK/DOTNET/First/bin/Debug/net10.0/First.dll
+/home/cocofioren/HACK/DOTNET/First/bin/Debug/net10.0/First.pdb
+/home/cocofioren/HACK/DOTNET/First/obj/Debug/net10.0/First.GeneratedMSBuildEditorConfig.editorconfig
+/home/cocofioren/HACK/DOTNET/First/obj/Debug/net10.0/First.AssemblyInfoInputs.cache
+/home/cocofioren/HACK/DOTNET/First/obj/Debug/net10.0/First.AssemblyInfo.cs
+/home/cocofioren/HACK/DOTNET/First/obj/Debug/net10.0/First.csproj.CoreCompileInputs.cache
+/home/cocofioren/HACK/DOTNET/First/obj/Debug/net10.0/First.dll
+/home/cocofioren/HACK/DOTNET/First/obj/Debug/net10.0/refint/First.dll
+/home/cocofioren/HACK/DOTNET/First/obj/Debug/net10.0/First.pdb
+/home/cocofioren/HACK/DOTNET/First/obj/Debug/net10.0/First.genruntimeconfig.cache
+/home/cocofioren/HACK/DOTNET/First/obj/Debug/net10.0/ref/First.dll
