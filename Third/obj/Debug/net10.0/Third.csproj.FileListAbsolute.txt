@@ -1,0 +1,15 @@
+/home/cocofioren/HACK/DOTNET/Third/bin/Debug/net10.0/Third
+/home/cocofioren/HACK/DOTNET/Third/bin/Debug/net10.0/Third.deps.json
+/home/cocofioren/HACK/DOTNET/Third/bin/Debug/net10.0/Third.runtimeconfig.json
+/home/cocofioren/HACK/DOTNET/Third/bin/Debug/net10.0/Third.dll
+/home/cocofioren/HACK/DOTNET/Third/bin/Debug/net10.0/Third.pdb
+/home/cocofioren/HACK/DOTNET/Third/obj/Debug/net10.0/Third.GeneratedMSBuildEditorConfig.editorconfig
+/home/cocofioren/HACK/DOTNET/Third/obj/Debug/net10.0/Third.AssemblyInfoInputs.cache
+/home/cocofioren/HACK/DOTNET/Third/obj/Debug/net10.0/Third.AssemblyInfo.cs
+/home/cocofioren/HACK/DOTNET/Third/obj/Debug/net10.0/Third.csproj.CoreCompileInputs.cache
+/home/cocofioren/HACK/DOTNET/Third/obj/Debug/net10.0/Third.sourcelink.json
+/home/cocofioren/HACK/DOTNET/Third/obj/Debug/net10.0/Third.dll
+/home/cocofioren/HACK/DOTNET/Third/obj/Debug/net10.0/refint/Third.dll
+/home/cocofioren/HACK/DOTNET/Third/obj/Debug/net10.0/Third.pdb
+/home/cocofioren/HACK/DOTNET/Third/obj/Debug/net10.0/Third.genruntimeconfig.cache
+/home/cocofioren/HACK/DOTNET/Third/obj/Debug/net10.0/ref/Third.dll
